@@ -9,7 +9,7 @@ algoritmo simples (mas que pode ser adaptado para aplicações/soluções poster
 ### Clonando o projeto
 ```
 $ git clone https://github.com/Taylor-2T9/CRUD-Node-FileSystem
-$ cd Astronomic-Images
+$ cd CRUD-Node-FileSystem
 ```
 ### Iniciando o projeto
 ```
